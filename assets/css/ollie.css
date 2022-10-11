@@ -12203,17 +12203,24 @@ a.badge-primary-PRO-btn:focus, a.badge-primary-btn.focus {
 
 .card-img-inside {
   width: 70%;
+  min-width: 300px;
+  max-width: 576px;
   border-radius: calc(0 - 1px);
 }
 
 .xs-font-inside {
+  position: relative;
+  text-align: center;
   font-size: 16px;
   opacity: .5;
   letter-spacing: 0.2em;
   font-family:Microsoft JhengHei;
-  margin-right: 140px;
-  margin-left: 140px;
+  align-items: center;
+  justify-content: center;
+  margin-left: 10px;
+  margin-right: 10px;
 }
+
 
 .title-font-inside {
   font-size: 20px;
