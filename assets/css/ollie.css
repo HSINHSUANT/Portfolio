@@ -12281,9 +12281,10 @@ a.badge-primary-PRO-btn:focus, a.badge-primary-btn.focus {
 .card-img-top-resume {
   border-top-left-radius: calc(0 - 1px);
   border-top-right-radius: calc(0 - 1px);
-  max-width: 900px;
-  min-width: 640px;
+  max-width: 600px;
+  min-width: 450px;
   width: 90%;
+  align-items: center;
 }
 
 .content-resume img {
