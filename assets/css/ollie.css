@@ -11627,7 +11627,7 @@ pre .code {
 }
 
 .header-an {
-  animation: up-down 2s ease-in-out infinite alternate-reverse both;
+  animation: up-down 1.5s ease-in-out infinite alternate-reverse both;
 }
 
 .bottom-page {
